@@ -1,0 +1,18 @@
+From: service@paypa1.com
+Subject: Your PayPal Account Has Been Limited
+Date: Tue, 5 Aug 2025 15:45:00 +0530
+
+Dear Customer,
+
+We noticed suspicious activity in your PayPal account and have temporarily limited your access for your protection.
+
+To restore full access, please confirm your identity immediately by clicking the link below:
+
+https://paypal-security-verification.com/confirm
+
+If you do not confirm your account within 48 hours, your PayPal access will be permanently restricted.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,  
+PayPal Support Team
